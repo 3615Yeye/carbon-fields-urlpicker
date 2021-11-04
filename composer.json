@@ -1,8 +1,8 @@
 {
-    "name": "iamntz/carbon-fields-urlpicker",
+    "name": "3615yeye/carbon-fields-urlpicker",
     "description": "Carbon Fields extension, that adds a URL picker field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-fields-urlpicker"],
-    "homepage": "https://github.com/iamntz/carbon-fields-urlpicker",
+    "homepage": "https://github.com/3615yeye/carbon-fields-urlpicker",
 
     "type": "library",
     "license": "GPL-2.0+",

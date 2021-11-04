@@ -1,17 +1,13 @@
 ## Carbon Field: urlpicker
 
+Warning : I'm just forking to use this package in my project without downgrading the stability for the rest of my dependencies.
+Not meant to be stable.
+
 _(this is an extension of [Carbon Fields](http://carbonfields.net/) plugin)_
 
-Adds a `urlpicker` field type to Carbon Fields. Install using composer:
 ```cli
-composer require iamntz/carbon-fields-urlpicker
+composer require 3615yeye/carbon-fields-urlpicker
 ```
-
-You're using Carbon Fields v3? Then install it from the v3 branch!
-```cli
-composer require iamntz/carbon-fields-urlpicker:v3.x-dev
-```
-
 
 (first, make sure you have `"minimum-stability": "dev"` set in `composer.json`)
 
